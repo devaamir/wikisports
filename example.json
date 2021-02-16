@@ -1,0 +1,33 @@
+{
+  "data" : [ {
+    "Goals" : 12,
+    "first_name" : "Lionel",
+    "id" : 1,
+    "last_name" : "Messi",
+    "team" : "FC Barcelona"
+  }, {
+    "Goals" : 10,
+    "first_name" : "Gerrad",
+    "id" : 2,
+    "last_name" : "Moreno",
+    "team" : "Villareal"
+  }, {
+    "Goals" : 14,
+    "first_name" : "Luis",
+    "id" : 3,
+    "last_name" : "Suarez",
+    "team" : "Athletico Madrid"
+  }, {
+    "Goals" : 12,
+    "first_name" : "Youssuf",
+    "id" : 4,
+    "last_name" : "En-Nesyri",
+    "team" : "Sevilla"
+  }, {
+    "Goals" : 10,
+    "first_name" : "Karim",
+    "id" : 5,
+    "last_name" : "Benzema",
+    "team" : "Real Madrid"
+  } ]
+}
